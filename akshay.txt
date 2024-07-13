@@ -2,7 +2,12 @@ Hi
 I am goof
 How are you 
 are u ok
+<<<<<<< HEAD
 
 
 I am alose good
 greate
+=======
+greatll
+'fff
+>>>>>>> 92389e1462ffb8b0aff7554c31439c746a0b830e
